@@ -2,7 +2,7 @@
 title: "AWS Lab Account"
 chapter: true
 weight: 10
-pre: "<b>1. </b>"
+pre: "<b>2. </b>"
 ---
 
 ## AWS Lab Account

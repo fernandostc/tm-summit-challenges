@@ -1,8 +1,8 @@
 ---
-title: "Challenge"
+title: "Create Cloud One Account"
 chapter: false
-weight: 40
-pre: "<b>5. </b>"
+weight: 5
+pre: "<b>1. </b>"
 ---
 
 ### Let's do the challenge now!!

@@ -2,7 +2,7 @@
 title: "Deploy Cloud One File Storage Security"
 chapter: true
 weight: 30
-pre: "<b>3. </b>"
+pre: "<b>4. </b>"
 ---
 
 
