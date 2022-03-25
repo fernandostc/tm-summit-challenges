@@ -6,7 +6,7 @@ weight: 1
 
 # Trend Micro - AWS Summit Challenges
 
-### Welcome
+## Welcome
 
 Improve your cloud posture in minutes with cloud security modules built on AWS.
 
@@ -14,7 +14,7 @@ In this challenge, enhance your skills with labs on cloud misconfiguration detec
 
 ---
 
-### Challenge
+## Challenge
 
 1. Start a trial either via AWS Marketplace or Trend Micro Cloud One homepage
 
@@ -25,8 +25,12 @@ In this challenge, enhance your skills with labs on cloud misconfiguration detec
 
 ---
 
-### Prizes
+## Prizes
 
 Participants who complete all steps will receive a <b>$25 gift card</b> via email and be entered into a drawing to win a DJI Mini SE Quadcopter. Winners will be announced the Monday after the completion of the AWS Summit.
 
 ![prize](/images/drone.png)
+
+----
+
+## Now let’s start the challenge the first step will be creating your Trend Micro Cloud One Account 👨‍💻 👩‍💻 💻 ☁️
