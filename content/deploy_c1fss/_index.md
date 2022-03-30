@@ -1,8 +1,8 @@
 ---
 title: "Deploy Cloud One File Storage Security"
 chapter: true
-weight: 30
-pre: "<b>4. </b>"
+weight: 20
+pre: "<b>3. </b>"
 ---
 
 
@@ -79,14 +79,15 @@ Go to CloudFormation > Stacks > your all-in-one stack > Outputs tab and copy the
 
 ![Diagram](/images/login_7.png)
 
-You have now completed the deployment of the All-in-One stack :tada:, so let's test our deployment :laptop:
+You have now completed the deployment of the All-in-One stack :tada:, to protect S3 buckets agaisnt Ransomware and Malware. 
 
-All the new objects that will be uploaded to your bucket that you define to be scan, now will be automatically scanning against malware and tagged as "malicious" or "no issues found".
+It will start scanning any new object uploaded to S3 buckets now on. 
 
+The objects will be automatically tagged as "malicious" or "no issues found" based in our malware engines. 
 
----
+----
 
-Here is a video with the steps-by-steps on how to deploy All-in-One stack for File Storage Security:
-{{< youtube id="_w1_k5W3tEQ" title="Deploying the File Storage Security All In One Stack" >}}
+**Now let's deploy Security agaisnt Ransomware and Malware to our S3 Buckets!!** :laptop::bar_chart:
+
 
 

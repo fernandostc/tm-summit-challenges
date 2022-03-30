@@ -1,8 +1,8 @@
 ---
 title: "Deploy Cloud One - Conformity"
 chapter: false
-weight: 20
-pre: "<b>3. </b>"
+weight: 30
+pre: "<b>4. </b>"
 ---
 
 ### Deploy Cloud One - Conformity
@@ -73,4 +73,4 @@ After you create a Trend Micro Cloud One account, the next step is to integrate 
 
 ---
 
-**Let's build our first report in Cloud One - Conformity!!** :laptop::bar_chart:
+**Now it's time to answer a couple of questions to complete the challenge and participate in the drawing of the drones!!** :laptop::bar_chart:
