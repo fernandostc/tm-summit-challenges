@@ -55,13 +55,17 @@ You can validate the Cloud Formation Template by clicking in ```Review Stack```,
 
 ---
 
-**7.** In the CloudFormation page the <b>only required parameter</b> here is the <b>name of bucket</b> that you choose to be scanned, just add it in the configuration **(S3BucketToScan)**. In our case please use the name from the S3 bucket that you have created early in this workshop or use one existing S3 bucket that you prefer.
+**7.** In the CloudFormation page the <b>only required parameter</b> here is the <b>name of bucket</b> that you choose to be scanned. In our case please use <b>search on the AWS Event Engine account for the Bucket name</b> <span style="color:red"><b>AWS-Summit-***</b></span> this is the name from the S3 bucket that was created as a blueprint from your lab account. 
 
-It also supports differents parameters to customize your installation, like Resource prefixes and optional KMS integration, for more details about these configurations check our <a href="https://cloudone.trendmicro.com/docs/file-storage-security/gs-deploy-all-in-one-stack/">Documentation</a>.
+After adding the bucket name based on your AWS engine engine account you will need to acknowledge and click on <b>"Create Stack"</b>:
 
-After adding the bucket name you will need to acknowledge and click on <b>"Create Stack"</b>
+{{% notice warning %}}
+<p style='text-align: left;'>
+Remember to update the S3BucketToScan with the AWS S3 Bucket name <b>AWS-Summit-***</b> that you can find into your AWS lab provided for the challenge.
+</p>
+{{% /notice %}}
 
-![Diagram](/images/cfdeploy.png)
+![Diagram](/images/cftdeploy.png)
 
 ---
 
@@ -87,7 +91,7 @@ The objects will be automatically tagged as "malicious" or "no issues found" bas
 
 ----
 
-**Now let's deploy Security agaisnt Ransomware and Malware to our S3 Buckets!!** :laptop::bar_chart:
+**Now let's deploy the cloud misconfiguration detection tool!!** :laptop::bar_chart:
 
 
 

@@ -7,7 +7,7 @@ pre: "<b>4. </b>"
 
 ### Deploy Cloud One - Conformity
 
-After you create a Trend Micro Cloud One account, the next step is to integrate your AWS account with Conformity to gain deep visibility around the possible drifts and misconfiguration within over 80 different AWS services. It will also check that your infrastructure aligns with the AWS Well-Architected Framework too :star_struck:
+The next step is to integrate your AWS account with Conformity to gain deep visibility around the possible drifts and misconfiguration within over 80 different AWS services. It will also check that your infrastructure aligns with the AWS Well-Architected Framework too :star_struck:
 
 
 #### Log in to Trend Micro Cloud One and go to Conformity
@@ -21,8 +21,6 @@ After you create a Trend Micro Cloud One account, the next step is to integrate 
 ---
 
 **2.** After selecting Conformity, you can begin adding your AWS account by clicking <b>Add Account</b>. There are two ways to link your account: automatically or manually.
-
-![Integration3](/images/integration3.png) 
 
 ![Integration4](/images/integration4.png) 
 
