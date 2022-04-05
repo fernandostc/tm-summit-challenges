@@ -43,7 +43,8 @@ The next step is to integrate your AWS account with Conformity to gain deep visi
 
 ---
 
-**5.** Follow the automation instructions regarding AWS setup. After selecting <b>Launch Stack</b>, you’ll be taken to your AWS management console and prompted to check <b>I acknowledge…</b> After a few moments, a CloudFormation stack will be created. Upon creation, go to <b>Outputs</b>, copy the <b>CloudConformityRoleArn</b> and paste into the box in Conformity:
+#### **5.** Gathering the ARN for Conformity deploy
+Follow the automation instructions regarding AWS setup. After selecting <b>Launch Stack</b>, you’ll be taken to your AWS management console and prompted to check <b>I acknowledge…</b> After a few moments, a CloudFormation stack will be created. Upon creation, go to <b>Outputs</b>, copy the <b>CloudConformityRoleArn</b> and paste into the box in Conformity:
 
 ![Integration7](/images/integration7.png) 
 
