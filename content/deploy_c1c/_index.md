@@ -7,12 +7,12 @@ pre: "<b>4. </b>"
 
 ### Deploy Cloud One - Conformity
 
-The next step is to integrate your AWS account with Conformity to gain deep visibility around the possible drifts and misconfiguration within over 80 different AWS services. It will also check that your infrastructure aligns with the AWS Well-Architected Framework too :star_struck:
+The next step is to integrate your AWS account with Conformity to gain deep visibility around the possible drifts and misconfiguration within over 80 different AWS services. It will also check that your infrastructure aligns with the AWS Well-Architected Framework :star_struck:
 
 
 #### Log in to Trend Micro Cloud One and go to Conformity
 
-**1.** Upon signing into Trend Micro Cloud One, you’ll be prompted to select between the seven security solutions in Trend Micro Cloud One platform. Today, we will be using Conformity
+**1.** Upon signing into Trend Micro Cloud One, you’ll be prompted to select between the seven security solutions in the Trend Micro Cloud One platform. Today, we will be using Conformity
 
 ![Integration1](/images/integration1.png) 
 
@@ -26,7 +26,7 @@ The next step is to integrate your AWS account with Conformity to gain deep visi
 
 ---
 
-**3.** First, you will need to define the account name and environment type of the AWS account that you will integrating with Conformity to make it easy to locate the account inside the dashboard. For further detail and additional assistance, please refer to the help video in the page:
+**3.** First, you will need to define the account name and environment type of the AWS account that you will integrating with Conformity to make it easy to locate the account inside the dashboard. For further detail and additional assistance, please refer to the help video on the page:
 
 - In our case we are using the Account Name: <code>AWS Modernization Workshop</code>
 
@@ -43,7 +43,7 @@ The next step is to integrate your AWS account with Conformity to gain deep visi
 
 ---
 
-#### **5.** Gathering the ARN for Conformity deploy
+#### **5.** Gathering the ARN for Conformity deployment
 Follow the automation instructions regarding AWS setup. After selecting <b>Launch Stack</b>, you’ll be taken to your AWS management console and prompted to check <b>I acknowledge…</b> After a few moments, a CloudFormation stack will be created. Upon creation, go to <b>Outputs</b>, copy the <b>CloudConformityRoleArn</b> and paste into the box in Conformity:
 
 ![Integration7](/images/integration7.png) 
@@ -66,10 +66,10 @@ Follow the automation instructions regarding AWS setup. After selecting <b>Launc
 
 ---
 
-**8.** Now you are all set up and you will be able to see the results after couple minutes in the dashboard like the image below:
+**8.** Now you are all set up and will be able to see the results after couple minutes in the dashboard like the image below:
 
 ![Integration13](/images/integration13.png) 
 
 ---
 
-**Now it's time to answer a couple of questions to complete the challenge and participate in the drawing of the drones!!** :laptop::bar_chart:
+**Now it's time to answer a couple questions to complete the challenge and participate in the drawing for the drones!!** :laptop::bar_chart:

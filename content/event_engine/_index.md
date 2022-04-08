@@ -17,7 +17,7 @@ If you are currently logged in to an AWS Account, you can log out using this [li
 
 ### Logging into Event Engine Dashboard
 
-**1.** Connect to the portal by clicking the button or browsing to [https://dashboard.eventengine.run/](https://dashboard.eventengine.run/). The following screen shows up. Enter the provided hash in the text box. The button in the bottom right corner changes to **Accept Terms & Login**. Click on that button to continue.
+**1.** Connect to the portal by clicking the button or browsing to [https://dashboard.eventengine.run/](https://dashboard.eventengine.run/). The following screen will shows. Enter the provided hash in the text box. The button in the bottom right corner will change to **Accept Terms & Login**. Click on that button to continue.
 
 {{% notice warning %}}
 Don't forget to open the portal in the **Incognito Window**  in your browser. It will help you don't have any issue with your currently AWS account that you may will be log in already. 
@@ -34,7 +34,7 @@ Don't forget to open the portal in the **Incognito Window**  in your browser. It
 ![Event Engine](/images/setup/event-engine-otp-2.png)
 
 
-**3.** Copy the passcode that you was send to your email, paste in the console and click Sign In
+**3.** Copy the passcode that was sent to your email, paste it in the console and click Sign In
 
 ![Event Engine](/images/setup/event-engine-otp-3.png)
 
@@ -50,7 +50,7 @@ Don't forget to open the portal in the **Incognito Window**  in your browser. It
 
 * us-east-1 (US East - N.Virginia)
 
-Please select **US East (N.Virginia)** in the top right corner.
+Please select **US East (N.Virginia)** at the top right corner.
 
 ![Event Engine Region](/images/setup/event-engine-region.png)
 

@@ -16,7 +16,7 @@ In this challenge, enhance your skills with labs on cloud misconfiguration detec
 
 ## Challenge
 
-1. Start a trial either via AWS Marketplace or Trend Micro Cloud One homepage
+1. Start a trial either via AWS Marketplace or the Trend Micro Cloud One homepage
 
 2. Complete deployment of Cloud One Conformity and File Storage Security
 
@@ -33,4 +33,4 @@ Participants who complete all steps will receive a <b>$25 gift card</b> via emai
 
 ----
 
-## Now let’s start the challenge the first step will be creating your Trend Micro Cloud One Account 👨‍💻 👩‍💻 💻 ☁️
+## Now let’s start the challenge! The first step will be creating your Trend Micro Cloud One Account 👨‍💻 👩‍💻 💻 ☁️

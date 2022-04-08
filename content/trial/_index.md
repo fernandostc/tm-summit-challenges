@@ -10,7 +10,7 @@ pre: "<b>1. </b>"
 #### 1º Subscribe on AWS Marketplace for 30 days free trial 
 
 <details>
-  <summary> -> <code>CLICK HERE</code> to see the steps-by-steps on how to <strong>create your Cloud One Account</strong> </summary>
+  <summary> -> <code>CLICK HERE</code> to see the steps to <strong>create your Cloud One Account</strong> </summary>
 
 {{% notice warning %}}
 <p style='text-align: left;'>
@@ -68,33 +68,34 @@ pre: "<b>1. </b>"
 #### 2º Register on Cloud One portal for 30 days free trial
 
 <details>
-  <summary> -> <code>CLICK HERE</code> to see the steps-by-steps on how to <strong>create your Cloud One Account</strong> </summary>
+  <summary> -> <code>CLICK HERE</code> to see the steps to <strong>create your Cloud One Account</strong> </summary>
 
 
-**1.** Go to [Register for a free trial](https://cloudone.trendmicro.com/register), fill-up the form details and click Sign Up.
+**1.** Go to [Register for a free trial](https://cloudone.trendmicro.com/register), complete the form and click Sign Up.
+
 ![C1C](/images/c1c_1.png)
 
-**2.** After you will see a message about your Sign Up in Cloud One.
+**2.** You will then see a message about your Cloud One registration.
 
 ![C1C](/images/c1c_2.png)
 
-**3.** Go to your mailbox from the email that you used to register in Cloud One and verify your registration from Cloud One. The email will look like the below example, you will just need to click Verify Email.
+**3.** Go to the inbox of the email you used to register for Cloud One and verify your registration. The email will look like the below – you will just need to click Verify Email.
 
 ![C1C](/images/c1c_3.png)
 
-**4.** Now you will need to sign in to complete the verification process. 
+**4.** Next, sign in to complete the verification process.
 
 ![C1C](/images/c1c_4.png)
 
-**5.** You will need to create an Account Alias, in our case I'm using <code>Modernization_Workshop</code>,  after choose which region you would like to hosted your data from Cloud One, then click Continue.
+**5.** You will need to create an Account Alias (in our case I'm using <code>Modernization_Workshop</code>) and then select in which region you would like to host your data from Cloud One, then click Continue.
 
 ![C1C](/images/c1c_5.png)
 
-**6.** Choose the account that you just create and then click Go.
+**6.** Choose the account that you just created and click Go.
 
 ![C1C](/images/c1c_6.png)
 
-**7.** Now you are log in Trend Micro Cloud One Platform 
+**7.** Now you are logged into the Trend Micro Cloud One Platform.
 
 ![C1C](/images/c1c_7.png)
 
