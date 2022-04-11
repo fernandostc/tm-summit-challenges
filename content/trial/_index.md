@@ -2,7 +2,7 @@
 title: "Create Trend Micro Cloud One Account"
 chapter: false
 weight: 5
-pre: "<b>1. </b>"
+pre: "<b>2. </b>"
 ---
 
 ### Let's choose one of the ways to start using Cloud One

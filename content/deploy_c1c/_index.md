@@ -2,7 +2,7 @@
 title: "Deploy Cloud One - Conformity"
 chapter: false
 weight: 30
-pre: "<b>4. </b>"
+pre: "<b>5. </b>"
 ---
 
 ### Deploy Cloud One - Conformity

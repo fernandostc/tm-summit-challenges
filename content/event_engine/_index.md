@@ -2,7 +2,7 @@
 title: "AWS Lab Account"
 chapter: true
 weight: 10
-pre: "<b>2. </b>"
+pre: "<b>3. </b>"
 ---
 
 ## AWS Lab Account
@@ -22,6 +22,12 @@ If you are currently logged in to an AWS Account, you can log out using this [li
 {{% notice warning %}}
 Don't forget to open the portal in the **Incognito Window**  in your browser. It will help you don't have any issue with your currently AWS account that you may will be log in already. 
 {{% /notice %}}
+
+
+{{% notice note %}}
+Find the hash information to use on Engine Engine on this link here -> **[Event Engine Hash](https://trendsummit.ctfd.io/challenges#AWS%20Account%20ID-2)**
+{{% /notice %}}
+
 
 ![Event Engine](/images/setup/event-engine-initial-screen.png)
 

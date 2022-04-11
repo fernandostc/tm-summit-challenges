@@ -16,12 +16,13 @@ In this challenge, enhance your skills with labs on cloud misconfiguration detec
 
 ## Challenge
 
-1. Start a trial either via AWS Marketplace or the Trend Micro Cloud One homepage
+1. Register on the platform and answer the question based on the steps from the challenge
 
-2. Complete deployment of Cloud One Conformity and File Storage Security
+2. Start a trial either via AWS Marketplace or the Trend Micro Cloud One homepage
 
-3. Answer the final questions to relay your learnings from our quick challenges
+3. Complete deployment of Cloud One Conformity and File Storage Security
 
+4. Submit the questionnaire 
 
 ---
 
