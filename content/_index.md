@@ -34,4 +34,4 @@ Participants who complete all steps will receive a <b>$25 gift card</b> via emai
 
 ----
 
-## Now let’s start the challenge! The first step will be creating your Trend Micro Cloud One Account 👨‍💻 👩‍💻 💻 ☁️
+## Now let’s start the challenge! The first step will be creating your account on CTFd platform to answer the challenges questionnaire 👨‍💻 👩‍💻 💻 ☁️
