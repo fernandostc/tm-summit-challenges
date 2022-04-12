@@ -55,17 +55,17 @@ You can validate the Cloud Formation Template by clicking in ```Review Stack```,
 
 ---
 
-**7.** In the CloudFormation page the <b>only required parameter</b> here is the <b>name of bucket</b> that you choose to be scanned. In our case please <b>search on the AWS Event Engine account for the Bucket name</b> <span style="color:red"><b>AWS-Summit-***</b></span> - this is the name from the S3 bucket that was created as a blueprint from your lab account. 
+**7.** In the CloudFormation page the <b>only required parameter</b> here is the <b>name of bucket</b> that you choose to be scanned. In our case please <b>search on the AWS Event Engine account for the Bucket name</b> <span style="color:red"><b>mod-ee7-***</b></span> - this is the name from the S3 bucket that was created as a blueprint from your lab account. 
 
 After adding the bucket name based on your AWS event engine account you will need to acknowledge and click on <b>"Create Stack"</b>:
 
 {{% notice warning %}}
 <p style='text-align: left;'>
-Remember to update the S3BucketToScan with the AWS S3 Bucket name <b>AWS-Summit-***</b> that you can find into your AWS lab provided for the challenge.
+Remember to update the S3BucketToScan with the AWS S3 Bucket name <b>mod-ee7-***</b> that you can find into your AWS lab provided for the challenge.
 </p>
 {{% /notice %}}
 
-![Diagram](/images/cftdeploy.png)
+![Diagram](/images/cft.png)
 
 ---
 
