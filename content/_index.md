@@ -28,7 +28,7 @@ In this challenge, enhance your skills with labs on cloud misconfiguration detec
 
 ## Questions during the challenge?
 
-Please stop by our booth at the AWS Summit to ask to our experts or send us one e-mail:
+Please stop by our booth at the AWS Summit to talk to our experts or send us an e-mail:
 
 <a  href="mailto:allofustechnicalalliances@trendmicro.com?subject=Question about challenge at the AWS Summit"  target="_blank" rel="noopener noreferrer"  class="btn btn-default">  
   Talk to us
