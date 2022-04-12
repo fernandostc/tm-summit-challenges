@@ -26,6 +26,18 @@ In this challenge, enhance your skills with labs on cloud misconfiguration detec
 
 ---
 
+## Questions during the challenge?
+
+Please stop by our booth at the AWS Summit to ask to our experts or send us one e-mail:
+
+<a  href="mailto:allofustechnicalalliances@trendmicro.com?subject=Question about challenge at the AWS Summit"  target="_blank" rel="noopener noreferrer"  class="btn btn-default">  
+  Talk to us
+  <i class="fas fa-paper-plane"></i>
+</a>
+- allofustechnicalalliances@trendmicro.com
+
+---
+
 ## Prizes
 
 Participants who complete all steps will receive a <b>$25 gift card</b> via email and be entered into a drawing to win a DJI Mini SE Quadcopter. Winners will be announced the Monday after the completion of the AWS Summit.
