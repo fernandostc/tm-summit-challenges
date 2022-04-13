@@ -55,7 +55,7 @@ You can validate the Cloud Formation Template by clicking in ```Review Stack```,
 
 ---
 
-**7.** In the CloudFormation page the <b>only required parameter</b> here is the <b>name of bucket</b> that you choose to be scanned. In our case please <b>search on the AWS Event Engine account for the Bucket name</b> <span style="color:red"><b>mod-ee7-***</b></span> - this is the name from the S3 bucket that was created as a blueprint from your lab account. 
+**7.** In the CloudFormation page the <b>only required parameter</b> here is the <b>name of bucket</b> that you choose to be scanned. In our case please <b>search on the AWS Event Engine account for the Bucket name</b> <span style="color:red"><b>mod-ee7-***</b></span> - this is the name from the S3 bucket that was created automatically for your lab account. 
 
 After adding the bucket name based on your AWS event engine account you will need to acknowledge and click on <b>"Create Stack"</b>:
 
